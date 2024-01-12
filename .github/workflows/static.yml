@@ -5,7 +5,7 @@ server:
   listen: 80
   routes:
     - match:
-        host: "Gbzin44.github.io"
+        host: "GB.me"
       handle:
         root: "/app"
         file_server:
